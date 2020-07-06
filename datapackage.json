@@ -1,0 +1,45 @@
+{
+  "publisher": "irakli-mchedlishvili", 
+  "data_privacy_regulated": false, 
+  "maintainer": "irakli-mchedlishvili", 
+  "name": "8d59d8bb-019f-4fbd-8a04-6accc2fdb98f", 
+  "title": "8d59d8bb-019f-4fbd-8a04-6accc2fdb98f", 
+  "locked": false, 
+  "notes": "empty", 
+  "owner_org": "e6a1015b-399f-4cc2-bbfb-2ed0ffb82218", 
+  "geographic_level": "global", 
+  "maintainer_email": "Irakli.Mchedlishvili@gatesfoundation.org", 
+  "information_classification": "public-public-external", 
+  "visibility": "public", 
+  "private": false, 
+  "creator_user_id": "1379f24a-30d6-48f2-9c6e-d79551f4364c", 
+  "license_id": "cc-by", 
+  "type": "dataset", 
+  "id": "d7a8a5a6-22dc-4ddb-81fc-f5aa745a5baa", 
+  "extras": [
+    {
+      "value": false, 
+      "key": "data_privacy_regulated"
+    }, 
+    {
+      "value": "global", 
+      "key": "geographic_level"
+    }, 
+    {
+      "value": "public-public-external", 
+      "key": "information_classification"
+    }, 
+    {
+      "value": false, 
+      "key": "locked"
+    }, 
+    {
+      "value": "irakli-mchedlishvili", 
+      "key": "publisher"
+    }, 
+    {
+      "value": "public", 
+      "key": "visibility"
+    }
+  ]
+}
